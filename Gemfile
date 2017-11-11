@@ -8,6 +8,12 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
+
+gem 'mini_magick', '3.8.0'
+
+gem 'carrierwave'
+
+gem 'devise'
 # Use sqlite3 as the database for Active Record
 group :development do
   gem 'sqlite3'
