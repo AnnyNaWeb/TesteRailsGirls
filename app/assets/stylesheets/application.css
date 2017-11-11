@@ -19,9 +19,14 @@
  table, td, th { vertical-align: middle; border: none; }
  th { border-bottom: 1px solid #DDD; }
  .navbar {
-    min-height: 68px !important;
-    background: #f55e55 !important;
+
+    background: #221e1e !important;
     color: #ffffff;
+ }
+
+ .gravatar-css {
+     height: 20px;
+     width: 20px;
  }
  
  .navbar a.brand { font-size: 18px; }
